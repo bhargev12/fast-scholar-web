@@ -388,7 +388,7 @@ export default function App() {
           
           <div className="flex items-center gap-6">
             <a 
-              href={`https://github.com/${REPO_OWNER}`} 
+              href="https://github.com/bhargev12"
               target="_blank" 
               rel="noreferrer"
               className="flex items-center gap-2 text-sm font-bold text-slate-600 hover:text-indigo-600 transition-colors bg-slate-50 px-4 py-2 rounded-xl hover:bg-indigo-50"
